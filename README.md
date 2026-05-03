@@ -1,5 +1,6 @@
 Bioinformatics & Computational Biology Projects
-A collection of notebooks covering genomic data analysis, RNA-seq workflows, sequence characterization, and machine learning applications in biology. Most of this work grew out of projects I’ve been involved in over the years. I put these together to keep things organized and reproducible.
+
+This is a collection of notebooks covering genomic data analysis, RNA-seq workflows, sequence characterization, and machine learning applications in biology. Most of this work grew out of projects I’ve been involved in over the years. I put these together to keep things organized and reproducible.
 Notebooks:
 
 RNA-seq Exploratory Analysis-
